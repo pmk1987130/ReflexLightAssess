@@ -1,0 +1,6 @@
+﻿0.1.0 - 添加版本标识文件。
+0.1.1 - 在Server类中添加一个公共属性RunInfoString用来记录最新的传感器数据。packets不变。
+0.1.2 - 检查Receive()返回值，若为null则不赋给_lastReceivedPacket。
+0.1.3 - 将InitializeLabel 更名为 SensorLabel 并放到Socket类下。
+0.1.4 - 更新OSCServer类的recieve数据机制。现在将每次接受到的数据放进一个List集合中，在OSCHandler的每个Update中，将其全部取出（AddRange）并清空List。
+0.1.5 - ButtonManagerScript中加入Exit方法，允许直接退出游戏。

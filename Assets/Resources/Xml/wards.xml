@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Records>
+  <!---->
+  <Record name="PointingTitle" language="zh" step="1">第1步:</Record>
+  <Record name="PointingTitle" language="en" step="1">step1:</Record>
+
+  <Record name="PointingTitle" language="zh" step="2">第2步:</Record>
+  <Record name="PointingTitle" language="en" step="2">step2:</Record>
+
+  <Record name="PointingTitle" language="zh" step="3">第3步:</Record>
+  <Record name="PointingTitle" language="en" step="3">step3:</Record>
+
+  <Record name="PointingTitle" language="zh" step="4">第4步:</Record>
+  <Record name="PointingTitle" language="en" step="4">step4:</Record>
+
+  <Record name="PointingTitle" language="zh" step="5">第5步:</Record>
+  <Record name="PointingTitle" language="en" step="5">step5:</Record>
+  
+  <Record name="PointingTitleName" language="zh" step="1">上肢正面运动1</Record>
+  <Record name="PointingTitleName" language="en" step="1">step1 title</Record>
+
+  <Record name="PointingTitleName" language="zh" step="2">上肢正面运动2</Record>
+  <Record name="PointingTitleName" language="en" step="2">step2 title</Record>
+
+  <Record name="PointingTitleName" language="zh" step="3">上肢正面运动3</Record>
+  <Record name="PointingTitleName" language="en" step="3">step3 title</Record>
+
+  <Record name="PointingTitleName" language="zh" step="4">上肢正面运动4</Record>
+  <Record name="PointingTitleName" language="en" step="4">step4 title</Record>
+
+  <Record name="PointingTitleName" language="zh" step="5">上肢正面运动5</Record>
+  <Record name="PointingTitleName" language="en" step="5">step5 title</Record>
+  
+  
+  
+  <Record name="PointingDescribe" language="zh" step="1">请根据指导动作1</Record>
+  <Record name="PointingDescribe" language="en" step="1">describe1</Record>
+
+  <Record name="PointingDescribe" language="zh" step="2">请根据指导动作2</Record>
+  <Record name="PointingDescribe" language="en" step="2">describe2</Record>
+
+  <Record name="PointingDescribe" language="zh" step="3">请根据指导动作3</Record>
+  <Record name="PointingDescribe" language="en" step="3">describe3</Record>
+
+  <Record name="PointingDescribe" language="zh" step="4">请根据指导动作4</Record>
+  <Record name="PointingDescribe" language="en" step="4">describe4</Record>
+
+  <Record name="PointingDescribe" language="zh" step="5">请根据指导动作5</Record>
+  <Record name="PointingDescribe" language="en" step="5">describe5</Record>
+  
+  
+  <Record name="DataLabel1" language="zh">上:</Record>
+  <Record name="DataLabel1" language="en">Up:</Record>
+
+  <Record name="DataLabel2" language="zh">下:</Record>
+  <Record name="DataLabel2" language="en">Down:</Record>
+
+  <Record name="DataLabel3" language="zh">左:</Record>
+  <Record name="DataLabel3" language="en">Left:</Record>
+
+  <Record name="DataLabel4" language="zh">右:</Record>
+  <Record name="DataLabel4" language="en">Right:</Record>
+
+  <Record name="DataLabel5" language="zh">前:</Record>
+  <Record name="DataLabel5" language="en">Front:</Record>
+
+  <Record name="DataLabel6" language="zh">后:</Record>
+  <Record name="DataLabel6" language="en">Back:</Record>
+
+</Records>
